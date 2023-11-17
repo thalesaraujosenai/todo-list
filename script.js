@@ -3,6 +3,8 @@ var input = document.getElementById("inputField");
 var toDoContainer = document.getElementById("toDoContainer");
 var meuModal = document.getElementById("exampleModal");
 
+//TesteGit
+
 add.addEventListener("click", addItem());
 input.addEventListener("keypress", function (e) {
   if (e.key == "Enter") {
